@@ -1,0 +1,11 @@
+C:\Users\Hp\Number_game\bin\Debug\netcoreapp3.1\Number_game.exe
+C:\Users\Hp\Number_game\bin\Debug\netcoreapp3.1\Number_game.deps.json
+C:\Users\Hp\Number_game\bin\Debug\netcoreapp3.1\Number_game.runtimeconfig.json
+C:\Users\Hp\Number_game\bin\Debug\netcoreapp3.1\Number_game.runtimeconfig.dev.json
+C:\Users\Hp\Number_game\bin\Debug\netcoreapp3.1\Number_game.dll
+C:\Users\Hp\Number_game\bin\Debug\netcoreapp3.1\Number_game.pdb
+C:\Users\Hp\Number_game\obj\Debug\netcoreapp3.1\Number_game.csprojAssemblyReference.cache
+C:\Users\Hp\Number_game\obj\Debug\netcoreapp3.1\Number_game.AssemblyInfoInputs.cache
+C:\Users\Hp\Number_game\obj\Debug\netcoreapp3.1\Number_game.AssemblyInfo.cs
+C:\Users\Hp\Number_game\obj\Debug\netcoreapp3.1\Number_game.dll
+C:\Users\Hp\Number_game\obj\Debug\netcoreapp3.1\Number_game.pdb
